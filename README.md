@@ -4,11 +4,16 @@ This project focuses on real-time sentiment analysis of Twitter data, leveraging
 
 Tech Stack & Tools Used:
 
-1.Data Ingestion: Tweepy (Twitter API), Apache Kafka,
-2.Data Processing: Apache Spark, Pandas, NLTK, TextBlob,
-3.Data Storage: PostgreSQL, AWS S3, Snowflake,
-4.Machine Learning: Logistic Regression, Naïve Bayes, LSTM (Deep Learning),
-5.Data Visualization: Matplotlib, Seaborn, Plotly.
+1. Data Ingestion:
+Tweepy (Twitter API), Apache Kafka
+2. Data Processing & Cleaning:
+Apache Spark, Pandas, NLTK, TextBlob
+3. Sentiment Classification:
+PostgreSQL, AWS S3, Snowflake
+4. Data Pipeline & Storage:
+Logistic Regression, Naïve Bayes, LSTM (Deep Learning)
+5. Data Visualization & Insights:
+Matplotlib, Seaborn, Plotly
 
 Project Workflow:
 1. Data Ingestion:
