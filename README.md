@@ -1,7 +1,9 @@
 Project Overview
+
 This project focuses on real-time sentiment analysis of Twitter data, leveraging Big Data technologies and NLP. The goal is to analyze tweets and classify them as positive, negative, or neutral by implementing a data pipeline for ingestion, processing, and analysis.
 
-Tech Stack & Tools Used 
+Tech Stack & Tools Used
+
 Data Ingestion: Tweepy (Twitter API), Apache Kafka
 Data Processing: Apache Spark, Pandas, NLTK, TextBlob
 Data Storage: PostgreSQL, AWS S3, Snowflake
