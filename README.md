@@ -34,10 +34,11 @@ Analyzed tweet sentiment distribution over time.
 Derived insights on public opinion regarding various topics.
 
 Project Outcomes & Learnings:
-Built an end-to-end real-time data pipeline.
-Integrated Big Data tools (Kafka, Spark, Snowflake, PostgreSQL).
-Applied NLP & Machine Learning for text classification.
-Automated ETL workflows with Airflow.
+
+Built an end-to-end real-time data pipeline,
+Integrated Big Data tools (Kafka, Spark, Snowflake, PostgreSQL),
+Applied NLP & Machine Learning for text classification,
+Automated ETL workflows with Airflow,
 Created interactive dashboards for sentiment trends.
 
 Dataset Details:
